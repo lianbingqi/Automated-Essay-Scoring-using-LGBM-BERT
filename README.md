@@ -40,12 +40,17 @@ In this project, I implemented a hybrid approach that combines both traditional 
   - After training, the models were evaluated using appropriate metrics (e.g., accuracy, F1-score) to ensure that they met the competition’s requirements. The ensemble approach, along with the advanced NLP techniques employed, culminated in the project achieving a Bronze medal in the competition, placing it in the top tier of submissions.
 
 ## Competition Link:
-The Link of the competition can be found on (https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2)
+The Link to the competition can be found at (https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2)
 ## Additional Inputs:
 
-* Due to the lack of exectutive GPUs for pretraining task, I only used GPUs offer by Kaggle to do inference and fine-tuning tasks, and used addtional resouces that have been created, (or) trained and published by others on the Kaggle and the inputs. The link of the revelent inputs are listed below:
+* Due to the lack of executive GPUs for pretraining tasks, I only used GPUs offered by Kaggle to do inference and fine-tuning tasks and used additional resources that have been created, (or) trained and published by others on the Kaggle and the inputs. The link of the relevant inputs are listed below:
+* 
   -**English_Word_HX** : (https://www.kaggle.com/datasets/xianhellg/english-word-hx)
+  
   -**AES2-400-FEs-202404291649** :(https://www.kaggle.com/datasets/hideyukizushi/aes2-400-fes-202404291649)
+  
   -**AES2-400-20240419134941**: (https://www.kaggle.com/datasets/hideyukizushi/aes2-400-20240419134941/data)
-  -**autogluon_cpu**: (https://www.kaggle.com/code/aikhmelnytskyy/autogluon-cpu)
+  -
+  **autogluon_cpu**: (https://www.kaggle.com/code/aikhmelnytskyy/autogluon-cpu)
+
   -**autogluon_gpu**:(https://www.kaggle.com/code/aikhmelnytskyy/autogluon-gpu)
