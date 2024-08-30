@@ -44,13 +44,13 @@ The Link to the competition can be found at (https://www.kaggle.com/competitions
 ## Additional Inputs:
 
 * Due to the lack of executive GPUs for pretraining tasks, I only used GPUs offered by Kaggle to do inference and fine-tuning tasks and used additional resources that have been created, (or) trained and published by others on the Kaggle and the inputs. The link of the relevant inputs are listed below:
-* 
+
   -**English_Word_HX** : (https://www.kaggle.com/datasets/xianhellg/english-word-hx)
   
   -**AES2-400-FEs-202404291649** :(https://www.kaggle.com/datasets/hideyukizushi/aes2-400-fes-202404291649)
   
   -**AES2-400-20240419134941**: (https://www.kaggle.com/datasets/hideyukizushi/aes2-400-20240419134941/data)
-  -
+  
   **autogluon_cpu**: (https://www.kaggle.com/code/aikhmelnytskyy/autogluon-cpu)
 
   -**autogluon_gpu**:(https://www.kaggle.com/code/aikhmelnytskyy/autogluon-gpu)
