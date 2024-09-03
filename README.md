@@ -29,7 +29,7 @@ In this project, I implemented a hybrid approach that combines both traditional 
   - The core of the project involved training multiple models to predict essay scores:
     - **DeBERTa for Sequence Classification:** Fine-tuned on the essay data to capture deep contextual relationships within the text, enabling it to predict scores with high accuracy.
     - **LightGBM:** Utilized for its speed and efficiency, particularly in handling the structured features derived from text vectorization.
-    - **Ensemble of Machine Learning Models:** A combination of traditional models (e.g., Random Forest, AdaBoost) was trained alongside BERT and LGBM to create a robust ensemble, potentially improving generalization and reducing overfitting.
+    - **Ensemble of Machine Learning Models:** A combination of traditional models (e.g., Random Forest, AdaBoost) was trained alongside DeBERTa and LGBM to create a robust ensemble, potentially improving generalization and reducing overfitting.
       
 * Hyperparameter Tuning & Model Optimization:
 
