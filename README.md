@@ -43,8 +43,6 @@ In this project, I implemented a hybrid approach that combines both traditional 
 The Link to the competition can be found at (https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2)
 ## Additional Inputs:
 
-* Due to the lack of executive GPUs for pretraining tasks, I only used GPUs offered by Kaggle to do inference and fine-tuning tasks and used additional resources that have been created, (or) trained and published by others on the Kaggle as the inputs. The links to the relevant inputs are listed below:
-
   -**English_Word_HX** : (https://www.kaggle.com/datasets/xianhellg/english-word-hx)
   
   -**AES2-400-FEs-202404291649** :(https://www.kaggle.com/datasets/hideyukizushi/aes2-400-fes-202404291649)
