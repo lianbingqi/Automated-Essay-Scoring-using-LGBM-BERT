@@ -6,7 +6,7 @@ In this project, I implemented a hybrid approach that combines both traditional 
 
 * **LightGBM (LGBM):** A highly efficient and scalable gradient boosting framework that was utilized for its ability to handle large datasets and its superior performance on structured data.
 
-* **Bidirectional Encoder Representations from Transformers (BERT):** A transformer-based model pre-trained on a vast corpus of text. BERT's ability to capture contextual nuances in language made it an ideal choice for understanding and scoring essays based on their content, structure, and coherence.
+* **DeBERTa (Decoding-enhanced BERT with disentangled attention):**  A transformer-based model pre-trained on a vast corpus of text, ideal for capturing contextual nuances in language.
 
 ## Key Highlights of the Project:
 * Comprehensive Text Preprocessing Pipeline:
@@ -31,10 +31,6 @@ In this project, I implemented a hybrid approach that combines both traditional 
     - **LightGBM:** Utilized for its speed and efficiency, particularly in handling the structured features derived from text vectorization.
     - **Ensemble of Machine Learning Models:** A combination of traditional models (e.g., Random Forest, AdaBoost) was trained alongside DeBERTa and LGBM to create a robust ensemble, potentially improving generalization and reducing overfitting.
       
-* Hyperparameter Tuning & Model Optimization:
-
-  - The project included rigorous hyperparameter tuning using GridSearchCV and RandomizedSearchCV to optimize model parameters. This was crucial for enhancing the predictive power of the models and ensuring they performed well on unseen data.
-
 * Evaluation and Performance:
 
   - After training, the models were evaluated using appropriate metrics (e.g., accuracy, F1-score) to ensure they met the competition’s requirements. The ensemble approach, along with the advanced NLP techniques employed, culminated in the project achieving a Bronze medal in the competition, placing it in the top tier of submissions.
