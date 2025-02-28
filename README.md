@@ -33,7 +33,7 @@ In this project, I implemented a hybrid approach that combines both traditional 
       
 * Evaluation and Performance:
 
-  - After training, the models were evaluated using appropriate metrics (e.g., accuracy, F1-score) to ensure they met the competition’s requirements. The ensemble approach, along with the advanced NLP techniques employed, culminated in the project achieving a Bronze medal in the competition, placing it in the top tier of submissions.
+  - After training, the models were evaluated using appropriate metrics (Quadratic Weighted Kappa and RMSE metrics) to ensure they met the competition’s requirements. The ensemble approach, along with the advanced NLP techniques employed, culminated in the project achieving a Bronze medal in the competition, placing it in the top tier of submissions.
 
 ## Competition Link:
 The Link to the competition can be found at (https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2)
